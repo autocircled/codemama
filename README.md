@@ -42,4 +42,4 @@ The program will take a string `#CD5C5C` as input.
 The output will print either `true` or `false`
 
 ### Solution
-<a href="/test-2.js">test-1.js</a>
+<a href="/test-2.js">test-2.js</a>
