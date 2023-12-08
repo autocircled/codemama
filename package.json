@@ -1,0 +1,15 @@
+{
+  "name": "codemama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-1.js",
+  "scripts": {
+    "start": "nodemon test-2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
